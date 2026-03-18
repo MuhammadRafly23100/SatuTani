@@ -1,0 +1,155 @@
+﻿Analyzing satutani_mobile...                                    
+
+warning - The declaration '_kentangImg' isn't referenced - lib\data\mock\orders_mock.dart:50:7 - unused_element
+  error - The named parameter 'order' is required, but there's no corresponding argument - lib\main.dart:45:41 - missing_required_argument
+  error - The named parameter 'product' is required, but there's no corresponding argument - lib\main.dart:53:35 - missing_required_argument
+  error - Arguments of a constant creation must be constant expressions - lib\presentation\screens\cart\cart_screen.dart:157:33 - const_with_non_constant_argument
+  error - The getter 'continueToPayment' isn't defined for the type 'AppStrings' - lib\presentation\screens\cart\cart_screen.dart:157:44 - undefined_getter
+  error - The getter 'chip1' isn't defined for the type 'AppStrings' - lib\presentation\screens\chat\chat_screen.dart:28:16 - undefined_getter
+  error - The getter 'chip2' isn't defined for the type 'AppStrings' - lib\presentation\screens\chat\chat_screen.dart:29:16 - undefined_getter
+  error - The getter 'chip3' isn't defined for the type 'AppStrings' - lib\presentation\screens\chat\chat_screen.dart:30:16 - undefined_getter
+  error - The getter 'chip4' isn't defined for the type 'AppStrings' - lib\presentation\screens\chat\chat_screen.dart:31:16 - undefined_getter
+  error - The getter 'chatOnline' isn't defined for the type 'AppStrings' - lib\presentation\screens\chat\chat_screen.dart:101:35 - undefined_getter
+  error - The getter 'botBubbleBg' isn't defined for the type 'AppColors' - lib\presentation\screens\chat\chat_screen.dart:139:66 - undefined_getter
+  error - The argument type 'Object?' can't be assigned to the parameter type 'String'.  - lib\presentation\screens\chat\chat_screen.dart:166:37 - argument_type_not_assignable
+  error - The argument type 'Object?' can't be assigned to the parameter type 'String'.  - lib\presentation\screens\chat\chat_screen.dart:174:25 - argument_type_not_assignable
+  error - The getter 'chatHint' isn't defined for the type 'AppStrings' - lib\presentation\screens\chat\chat_screen.dart:196:40 - undefined_getter
+warning - Unused import: '../../../data/mock/farmers_mock.dart' - lib\presentation\screens\explore\explore_screen.dart:5:8 - unused_import
+   info - 'activeColor' is deprecated and shouldn't be used. Use activeThumbColor or activeTrackColor instead. This feature was deprecated after v3.31.0-2.0.pre - lib\presentation\screens\explore\explore_screen.dart:203:13 - deprecated_member_use
+   info - 'activeColor' is deprecated and shouldn't be used. Use activeThumbColor or activeTrackColor instead. This feature was deprecated after v3.31.0-2.0.pre - lib\presentation\screens\explore\explore_screen.dart:209:13 - deprecated_member_use
+   info - Use 'const' with the constructor to improve performance - lib\presentation\screens\explore\explore_screen.dart:315:11 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\presentation\screens\explore\explore_screen.dart:316:13 - prefer_const_constructors
+warning - Unused import: '../../../../data/mock/products_mock.dart' - lib\presentation\screens\farmer\home\farmer_home_screen.dart:5:8 - unused_import
+   info - Use 'const' with the constructor to improve performance - lib\presentation\screens\farmer\home\farmer_home_screen.dart:31:25 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\presentation\screens\farmer\home\farmer_home_screen.dart:55:17 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\presentation\screens\farmer\home\farmer_home_screen.dart:57:26 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\presentation\screens\farmer\home\farmer_home_screen.dart:59:28 - prefer_const_constructors
+   info - Use 'const' literals as arguments to constructors of '@immutable' classes - lib\presentation\screens\farmer\home\farmer_home_screen.dart:59:42 - prefer_const_literals_to_create_immutables
+   info - Use 'const' with the constructor to improve performance - lib\presentation\screens\farmer\home\farmer_home_screen.dart:78:26 - prefer_const_constructors
+   info - Use 'const' literals as arguments to constructors of '@immutable' classes - lib\presentation\screens\farmer\home\farmer_home_screen.dart:78:40 - prefer_const_literals_to_create_immutables
+   info - Use 'const' with the constructor to improve performance - lib\presentation\screens\farmer\home\farmer_home_screen.dart:86:21 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\presentation\screens\farmer\home\farmer_home_screen.dart:91:17 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\presentation\screens\farmer\home\farmer_home_screen.dart:174:9 - prefer_const_constructors
+   info - 'activeColor' is deprecated and shouldn't be used. Use activeThumbColor or activeTrackColor instead. This feature was deprecated after v3.31.0-2.0.pre - lib\presentation\screens\farmer\products\farmer_products_screen.dart:120:43 - deprecated_member_use
+   info - Use 'const' with the constructor to improve performance - lib\presentation\screens\farmer\revenue\revenue_screen.dart:22:13 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\presentation\screens\farmer\revenue\revenue_screen.dart:22:29 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\presentation\screens\farmer\revenue\revenue_screen.dart:30:11 - prefer_const_constructors
+   info - Use 'const' literals as arguments to constructors of '@immutable' classes - lib\presentation\screens\farmer\revenue\revenue_screen.dart:30:25 - prefer_const_literals_to_create_immutables
+   info - Use 'const' with the constructor to improve performance - lib\presentation\screens\farmer\revenue\revenue_screen.dart:31:13 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\presentation\screens\farmer\revenue\revenue_screen.dart:33:13 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\presentation\screens\home\home_screen.dart:143:7 - prefer_const_constructors
+  error - Const variables must be initialized with a constant value - lib\presentation\screens\home\widgets\category_grid.dart:12:30 - const_initialized_with_non_constant_value
+  error - The values in a const list literal must be constants - lib\presentation\screens\home\widgets\category_grid.dart:12:30 - non_constant_list_element
+  error - The values in a const map literal must be constant - lib\presentation\screens\home\widgets\category_grid.dart:12:30 - non_constant_map_value
+  error - The getter 'catGrain' isn't defined for the type 'AppStrings' - lib\presentation\screens\home\widgets\category_grid.dart:12:41 - undefined_getter
+  error - The values in a const list literal must be constants - lib\presentation\screens\home\widgets\category_grid.dart:13:34 - non_constant_list_element
+  error - The values in a const map literal must be constant - lib\presentation\screens\home\widgets\category_grid.dart:13:34 - non_constant_map_value
+  error - The getter 'catVegetable' isn't defined for the type 'AppStrings' - lib\presentation\screens\home\widgets\category_grid.dart:13:45 - undefined_getter
+  error - The values in a const list literal must be constants - lib\presentation\screens\home\widgets\category_grid.dart:14:30 - non_constant_list_element
+  error - The values in a const map literal must be constant - lib\presentation\screens\home\widgets\category_grid.dart:14:30 - non_constant_map_value
+  error - The getter 'catFruit' isn't defined for the type 'AppStrings' - lib\presentation\screens\home\widgets\category_grid.dart:14:41 - undefined_getter
+  error - The values in a const list literal must be constants - lib\presentation\screens\home\widgets\category_grid.dart:15:34 - non_constant_list_element
+  error - The values in a const map literal must be constant - lib\presentation\screens\home\widgets\category_grid.dart:15:34 - non_constant_map_value
+  error - The getter 'catProcessed' isn't defined for the type 'AppStrings' - lib\presentation\screens\home\widgets\category_grid.dart:15:45 - undefined_getter
+  error - Invalid constant value - lib\presentation\screens\home\widgets\farmer_card.dart:80:75 - invalid_constant
+  error - The getter 'infoBlue' isn't defined for the type 'AppColors' - lib\presentation\screens\home\widgets\farmer_card.dart:80:85 - undefined_getter
+  error - Arguments of a constant creation must be constant expressions - lib\presentation\screens\home\widgets\farmer_card.dart:83:31 - const_with_non_constant_argument
+  error - The getter 'verified' isn't defined for the type 'AppStrings' - lib\presentation\screens\home\widgets\farmer_card.dart:83:42 - undefined_getter
+warning - Unused import: '../../../core/constants/colors.dart' - lib\presentation\screens\onboarding\onboarding_screen.dart:3:8 - unused_import
+  error - Arguments of a constant creation must be constant expressions - lib\presentation\screens\orders\order_tracking_screen.dart:17:27 - const_with_non_constant_argument
+  error - The getter 'orderTracking' isn't defined for the type 'AppStrings' - lib\presentation\screens\orders\order_tracking_screen.dart:17:38 - undefined_getter
+  error - Invalid constant value - lib\presentation\screens\orders\order_tracking_screen.dart:79:31 - invalid_constant
+  error - The getter 'step1' isn't defined for the type 'AppStrings' - lib\presentation\screens\orders\order_tracking_screen.dart:79:42 - undefined_getter
+  error - Invalid constant value - lib\presentation\screens\orders\order_tracking_screen.dart:80:31 - invalid_constant
+  error - The getter 'step2' isn't defined for the type 'AppStrings' - lib\presentation\screens\orders\order_tracking_screen.dart:80:42 - undefined_getter
+  error - Invalid constant value - lib\presentation\screens\orders\order_tracking_screen.dart:81:31 - invalid_constant
+  error - The getter 'step3' isn't defined for the type 'AppStrings' - lib\presentation\screens\orders\order_tracking_screen.dart:81:42 - undefined_getter
+  error - Invalid constant value - lib\presentation\screens\orders\order_tracking_screen.dart:82:31 - invalid_constant
+  error - The getter 'step4' isn't defined for the type 'AppStrings' - lib\presentation\screens\orders\order_tracking_screen.dart:82:42 - undefined_getter
+  error - The getter 'coldChainBlue' isn't defined for the type 'AppColors' - lib\presentation\screens\orders\order_tracking_screen.dart:181:26 - undefined_getter
+  error - The getter 'coldChainBlue' isn't defined for the type 'AppColors' - lib\presentation\screens\orders\order_tracking_screen.dart:183:45 - undefined_getter
+  error - Invalid constant value - lib\presentation\screens\orders\order_tracking_screen.dart:190:50 - invalid_constant
+  error - The getter 'coldChainBlue' isn't defined for the type 'AppColors' - lib\presentation\screens\orders\order_tracking_screen.dart:190:60 - undefined_getter
+  error - Arguments of a constant creation must be constant expressions - lib\presentation\screens\orders\order_tracking_screen.dart:192:20 - const_with_non_constant_argument
+  error - The getter 'coldChainMonitor' isn't defined for the type 'AppStrings' - lib\presentation\screens\orders\order_tracking_screen.dart:192:31 - undefined_getter
+  error - Invalid constant value - lib\presentation\screens\orders\order_tracking_screen.dart:193:72 - invalid_constant
+  error - The getter 'coldChainBlue' isn't defined for the type 'AppColors' - lib\presentation\screens\orders\order_tracking_screen.dart:193:82 - undefined_getter
+  error - The getter 'temperature' isn't defined for the type 'AppStrings' - lib\presentation\screens\orders\order_tracking_screen.dart:199:61 - undefined_getter
+  error - The getter 'coldChainBlue' isn't defined for the type 'AppColors' - lib\presentation\screens\orders\order_tracking_screen.dart:199:91 - undefined_getter
+  error - The getter 'humidity' isn't defined for the type 'AppStrings' - lib\presentation\screens\orders\order_tracking_screen.dart:201:60 - undefined_getter
+  error - Arguments of a constant creation must be constant expressions - lib\presentation\screens\orders\order_tracking_screen.dart:211:22 - const_with_non_constant_argument
+  error - The getter 'optimalCondition' isn't defined for the type 'AppStrings' - lib\presentation\screens\orders\order_tracking_screen.dart:211:33 - undefined_getter
+  error - Evaluation of this constant expression throws an exception - lib\presentation\screens\orders\orders_screen.dart:49:13 - const_eval_throws_exception
+  error - Invalid constant value - lib\presentation\screens\orders\orders_screen.dart:49:23 - invalid_constant
+  error - The getter 'tabActive' isn't defined for the type 'AppStrings' - lib\presentation\screens\orders\orders_screen.dart:49:34 - undefined_getter
+  error - Evaluation of this constant expression throws an exception - lib\presentation\screens\orders\orders_screen.dart:50:13 - const_eval_throws_exception
+  error - Invalid constant value - lib\presentation\screens\orders\orders_screen.dart:50:23 - invalid_constant
+  error - The getter 'tabCompleted' isn't defined for the type 'AppStrings' - lib\presentation\screens\orders\orders_screen.dart:50:34 - undefined_getter
+  error - Evaluation of this constant expression throws an exception - lib\presentation\screens\orders\orders_screen.dart:51:13 - const_eval_throws_exception
+  error - Invalid constant value - lib\presentation\screens\orders\orders_screen.dart:51:23 - invalid_constant
+  error - The getter 'tabCancelled' isn't defined for the type 'AppStrings' - lib\presentation\screens\orders\orders_screen.dart:51:34 - undefined_getter
+  error - The getter 'warningOrange' isn't defined for the type 'AppColors' - lib\presentation\screens\orders\orders_screen.dart:197:27 - undefined_getter
+  error - The getter 'tabActive' isn't defined for the type 'AppStrings' - lib\presentation\screens\orders\orders_screen.dart:198:28 - undefined_getter
+  error - The getter 'tabCompleted' isn't defined for the type 'AppStrings' - lib\presentation\screens\orders\orders_screen.dart:201:28 - undefined_getter
+  error - The getter 'tabCancelled' isn't defined for the type 'AppStrings' - lib\presentation\screens\orders\orders_screen.dart:204:28 - undefined_getter
+  error - Arguments of a constant creation must be constant expressions - lib\presentation\screens\product_detail\product_detail_screen.dart:32:27 - const_with_non_constant_argument
+  error - The getter 'productDetail' isn't defined for the type 'AppStrings' - lib\presentation\screens\product_detail\product_detail_screen.dart:32:38 - undefined_getter
+  error - Arguments of a constant creation must be constant expressions - lib\presentation\screens\product_detail\product_detail_screen.dart:88:27 - const_with_non_constant_argument
+  error - The getter 'perKilogram' isn't defined for the type 'AppStrings' - lib\presentation\screens\product_detail\product_detail_screen.dart:88:38 - undefined_getter
+  error - The getter 'stock' isn't defined for the type 'AppStrings' - lib\presentation\screens\product_detail\product_detail_screen.dart:108:47 - undefined_getter
+  error - Arguments of a constant creation must be constant expressions - lib\presentation\screens\product_detail\product_detail_screen.dart:267:22 - const_with_non_constant_argument
+  error - The getter 'aboutProduct' isn't defined for the type 'AppStrings' - lib\presentation\screens\product_detail\product_detail_screen.dart:267:33 - undefined_getter
+  error - The getter 'seeMore' isn't defined for the type 'AppStrings' - lib\presentation\screens\product_detail\product_detail_screen.dart:280:58 - undefined_getter
+  error - Arguments of a constant creation must be constant expressions - lib\presentation\screens\product_detail\product_detail_screen.dart:295:22 - const_with_non_constant_argument
+  error - The getter 'farmerInfo' isn't defined for the type 'AppStrings' - lib\presentation\screens\product_detail\product_detail_screen.dart:295:33 - undefined_getter
+  error - Arguments of a constant creation must be constant expressions - lib\presentation\screens\product_detail\product_detail_screen.dart:331:35 - const_with_non_constant_argument
+  error - The getter 'seeProfile' isn't defined for the type 'AppStrings' - lib\presentation\screens\product_detail\product_detail_screen.dart:331:46 - undefined_getter
+  error - Arguments of a constant creation must be constant expressions - lib\presentation\screens\product_detail\product_detail_screen.dart:346:22 - const_with_non_constant_argument
+  error - The getter 'blockchainTitle' isn't defined for the type 'AppStrings' - lib\presentation\screens\product_detail\product_detail_screen.dart:346:33 - undefined_getter
+  error - Arguments of a constant creation must be constant expressions - lib\presentation\screens\product_detail\product_detail_screen.dart:363:26 - const_with_non_constant_argument
+  error - The getter 'productVerified' isn't defined for the type 'AppStrings' - lib\presentation\screens\product_detail\product_detail_screen.dart:363:37 - undefined_getter
+  error - Arguments of a constant creation must be constant expressions - lib\presentation\screens\product_detail\product_detail_screen.dart:401:39 - const_with_non_constant_argument
+  error - The getter 'viewOnBlockchain' isn't defined for the type 'AppStrings' - lib\presentation\screens\product_detail\product_detail_screen.dart:401:50 - undefined_getter
+  error - Arguments of a constant creation must be constant expressions - lib\presentation\screens\product_detail\product_detail_screen.dart:439:22 - const_with_non_constant_argument
+  error - The getter 'reviews' isn't defined for the type 'AppStrings' - lib\presentation\screens\product_detail\product_detail_screen.dart:439:33 - undefined_getter
+  error - The getter 'menuAddress' isn't defined for the type 'AppStrings' - lib\presentation\screens\profile\profile_screen.dart:10:61 - undefined_getter
+  error - The getter 'menuPayment' isn't defined for the type 'AppStrings' - lib\presentation\screens\profile\profile_screen.dart:11:61 - undefined_getter
+  error - The getter 'menuNotification' isn't defined for the type 'AppStrings' - lib\presentation\screens\profile\profile_screen.dart:12:63 - undefined_getter
+  error - The getter 'menuSecurity' isn't defined for the type 'AppStrings' - lib\presentation\screens\profile\profile_screen.dart:13:54 - undefined_getter
+  error - The getter 'menuHistory' isn't defined for the type 'AppStrings' - lib\presentation\screens\profile\profile_screen.dart:14:59 - undefined_getter
+  error - The getter 'menuAbout' isn't defined for the type 'AppStrings' - lib\presentation\screens\profile\profile_screen.dart:15:54 - undefined_getter
+  error - Arguments of a constant creation must be constant expressions - lib\presentation\screens\profile\profile_screen.dart:33:24 - const_with_non_constant_argument
+  error - The getter 'appVersion' isn't defined for the type 'AppStrings' - lib\presentation\screens\profile\profile_screen.dart:33:35 - undefined_getter
+  error - Arguments of a constant creation must be constant expressions - lib\presentation\screens\profile\profile_screen.dart:35:24 - const_with_non_constant_argument
+  error - The getter 'copyright' isn't defined for the type 'AppStrings' - lib\presentation\screens\profile\profile_screen.dart:35:35 - undefined_getter
+  error - The getter 'statsOrders' isn't defined for the type 'AppStrings' - lib\presentation\screens\profile\profile_screen.dart:89:61 - undefined_getter
+  error - The getter 'statsReviews' isn't defined for the type 'AppStrings' - lib\presentation\screens\profile\profile_screen.dart:91:62 - undefined_getter
+  error - The getter 'statsPoints' isn't defined for the type 'AppStrings' - lib\presentation\screens\profile\profile_screen.dart:93:63 - undefined_getter
+  error - Arguments of a constant creation must be constant expressions - lib\presentation\screens\profile\profile_screen.dart:159:27 - const_with_non_constant_argument
+  error - The getter 'menuLogout' isn't defined for the type 'AppStrings' - lib\presentation\screens\profile\profile_screen.dart:159:38 - undefined_getter
+  error - The getter 'navHome' isn't defined for the type 'AppStrings' - lib\presentation\widgets\bottom_nav_bar.dart:35:106 - undefined_getter
+  error - The getter 'navOrders' isn't defined for the type 'AppStrings' - lib\presentation\widgets\bottom_nav_bar.dart:36:116 - undefined_getter
+  error - The getter 'navChat' isn't defined for the type 'AppStrings' - lib\presentation\widgets\bottom_nav_bar.dart:37:113 - undefined_getter
+  error - The getter 'navProfile' isn't defined for the type 'AppStrings' - lib\presentation\widgets\bottom_nav_bar.dart:38:108 - undefined_getter
+  error - The name 'SatuTaniApp' isn't a class - test\widget_test.dart:16:35 - creation_with_non_type
+
+flutter : 132 issues 
+found. (ran in 7.3s)
+At line:1 char:1
++ flutter analyze 
+--no-pub 2>&1 | 
+Out-File 
+analyze_errors.txt 
+-Encoding ...
++ ~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~
+    + CategoryInfo     
+         : NotSpecifi  
+  ed: (132 issues fo   
+ und. (ran in 7.3s)    
+:String) [], Remot    
+eException
+    + FullyQualifiedEr 
+   rorId : NativeComm  
+  andError
+ 

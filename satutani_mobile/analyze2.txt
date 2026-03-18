@@ -1,0 +1,66 @@
+﻿Analyzing satutani_mobile...                                    
+
+warning - The declaration '_kentangImg' isn't referenced - lib\data\mock\orders_mock.dart:50:7 - unused_element
+   info - The 'child' argument should be last in widget constructor invocations - lib\presentation\screens\cart\cart_screen.dart:155:15 - sort_child_properties_last
+warning - Unused import: '../../../core/constants/strings.dart' - lib\presentation\screens\chat\chat_screen.dart:3:8 - unused_import
+warning - Unused import: '../../../data/mock/farmers_mock.dart' - lib\presentation\screens\explore\explore_screen.dart:5:8 - unused_import
+   info - 'activeColor' is deprecated and shouldn't be used. Use activeThumbColor or activeTrackColor instead. This feature was deprecated after v3.31.0-2.0.pre - lib\presentation\screens\explore\explore_screen.dart:203:13 - deprecated_member_use
+   info - 'activeColor' is deprecated and shouldn't be used. Use activeThumbColor or activeTrackColor instead. This feature was deprecated after v3.31.0-2.0.pre - lib\presentation\screens\explore\explore_screen.dart:209:13 - deprecated_member_use
+   info - Use 'const' with the constructor to improve performance - lib\presentation\screens\explore\explore_screen.dart:315:11 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\presentation\screens\explore\explore_screen.dart:316:13 - prefer_const_constructors
+warning - Unused import: '../../../../data/mock/products_mock.dart' - lib\presentation\screens\farmer\home\farmer_home_screen.dart:5:8 - unused_import
+   info - Use 'const' with the constructor to improve performance - lib\presentation\screens\farmer\home\farmer_home_screen.dart:31:25 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\presentation\screens\farmer\home\farmer_home_screen.dart:55:17 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\presentation\screens\farmer\home\farmer_home_screen.dart:57:26 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\presentation\screens\farmer\home\farmer_home_screen.dart:59:28 - prefer_const_constructors
+   info - Use 'const' literals as arguments to constructors of '@immutable' classes - lib\presentation\screens\farmer\home\farmer_home_screen.dart:59:42 - prefer_const_literals_to_create_immutables
+   info - Use 'const' with the constructor to improve performance - lib\presentation\screens\farmer\home\farmer_home_screen.dart:78:26 - prefer_const_constructors
+   info - Use 'const' literals as arguments to constructors of '@immutable' classes - lib\presentation\screens\farmer\home\farmer_home_screen.dart:78:40 - prefer_const_literals_to_create_immutables
+   info - Use 'const' with the constructor to improve performance - lib\presentation\screens\farmer\home\farmer_home_screen.dart:86:21 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\presentation\screens\farmer\home\farmer_home_screen.dart:91:17 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\presentation\screens\farmer\home\farmer_home_screen.dart:174:9 - prefer_const_constructors
+   info - 'activeColor' is deprecated and shouldn't be used. Use activeThumbColor or activeTrackColor instead. This feature was deprecated after v3.31.0-2.0.pre - lib\presentation\screens\farmer\products\farmer_products_screen.dart:120:43 - deprecated_member_use
+   info - Use 'const' with the constructor to improve performance - lib\presentation\screens\farmer\revenue\revenue_screen.dart:22:13 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\presentation\screens\farmer\revenue\revenue_screen.dart:22:29 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\presentation\screens\farmer\revenue\revenue_screen.dart:30:11 - prefer_const_constructors
+   info - Use 'const' literals as arguments to constructors of '@immutable' classes - lib\presentation\screens\farmer\revenue\revenue_screen.dart:30:25 - prefer_const_literals_to_create_immutables
+   info - Use 'const' with the constructor to improve performance - lib\presentation\screens\farmer\revenue\revenue_screen.dart:31:13 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\presentation\screens\farmer\revenue\revenue_screen.dart:33:13 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\presentation\screens\home\home_screen.dart:143:7 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\presentation\screens\home\widgets\category_grid.dart:31:24 - prefer_const_constructors
+   info - Use 'const' literals as arguments to constructors of '@immutable' classes - lib\presentation\screens\home\widgets\category_grid.dart:32:29 - prefer_const_literals_to_create_immutables
+   info - Use 'const' with the constructor to improve performance - lib\presentation\screens\home\widgets\category_grid.dart:33:21 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\presentation\screens\home\widgets\category_grid.dart:34:32 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\presentation\screens\home\widgets\category_grid.dart:35:21 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\presentation\screens\home\widgets\farmer_card.dart:53:25 - prefer_const_constructors
+   info - Use 'const' literals as arguments to constructors of '@immutable' classes - lib\presentation\screens\home\widgets\farmer_card.dart:54:37 - prefer_const_literals_to_create_immutables
+   info - Use 'const' with the constructor to improve performance - lib\presentation\screens\home\widgets\farmer_card.dart:55:29 - prefer_const_constructors
+warning - Unused import: '../../../core/constants/colors.dart' - lib\presentation\screens\onboarding\onboarding_screen.dart:3:8 - unused_import
+warning - Unused import: '../../../core/constants/strings.dart' - lib\presentation\screens\orders\order_tracking_screen.dart:3:8 - unused_import
+warning - Unused import: '../../../data/models/order_model.dart' - lib\presentation\screens\orders\order_tracking_screen.dart:4:8 - unused_import
+warning - Unused import: '../../../core/constants/strings.dart' - lib\presentation\screens\orders\orders_screen.dart:3:8 - unused_import
+warning - Unused import: '../../../core/constants/strings.dart' - lib\presentation\screens\product_detail\product_detail_screen.dart:4:8 - unused_import
+   info - Use 'const' with the constructor to improve performance - lib\presentation\screens\product_detail\product_detail_screen.dart:170:14 - prefer_const_constructors
+   info - Use 'const' literals as arguments to constructors of '@immutable' classes - lib\presentation\screens\product_detail\product_detail_screen.dart:172:19 - prefer_const_literals_to_create_immutables
+   info - Use 'const' for final variables initialized to a constant value - lib\presentation\screens\product_detail\product_detail_screen.dart:188:5 - prefer_const_declarations
+warning - Unused import: '../../../core/constants/strings.dart' - lib\presentation\screens\profile\profile_screen.dart:3:8 - unused_import
+
+flutter : 44 issues 
+found. (ran in 6.6s)
+At line:1 char:1
++ flutter analyze 
+--no-pub 2>&1 | 
+Out-File e:\SatuTani\sa
+tutani\satutan ...
++ ~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~
+    + CategoryInfo     
+         : NotSpecifi  
+  ed: (44 issues fou   
+ nd. (ran in 6.6s):    
+String) [], Remote    
+Exception
+    + FullyQualifiedEr 
+   rorId : NativeComm  
+  andError
+ 
