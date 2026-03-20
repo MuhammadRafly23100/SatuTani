@@ -21,7 +21,7 @@ class _ChatScreenState extends State<ChatScreen> {
   bool _showChips = true;
 
   final List<_ChatMessage> _messages = [
-    _ChatMessage(text: 'Halo! Saya asisten AI TaniDirect 🌾 Saya siap membantu Anda. Ada yang bisa saya bantu?', isUser: false),
+    _ChatMessage(text: 'Halo! Saya asisten AI SatuTani 🌾 Saya siap membantu Anda. Ada yang bisa saya bantu?', isUser: false),
   ];
 
   final _quickReplies = [

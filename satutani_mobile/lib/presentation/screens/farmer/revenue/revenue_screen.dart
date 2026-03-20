@@ -30,7 +30,7 @@ class RevenueScreen extends StatelessWidget {
           Row(children: [
             _Legend(color: AppColors.danger, label: 'Dengan Perantara'),
             const SizedBox(width: 16),
-            _Legend(color: AppColors.primary, label: 'TaniDirect'),
+            _Legend(color: AppColors.primary, label: 'SatuTani'),
           ]),
           const SizedBox(height: 16),
           // Bar chart

@@ -5,7 +5,7 @@ import 'package:satutani_mobile/main.dart';
 
 void main() {
   testWidgets('App launches smoke test', (WidgetTester tester) async {
-    await tester.pumpWidget(const TaniDirectApp());
+    await tester.pumpWidget(const SatuTaniApp());
     expect(find.byType(MaterialApp), findsOneWidget);
   });
 }

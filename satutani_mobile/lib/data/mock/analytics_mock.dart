@@ -17,7 +17,7 @@ class ProvinceDemand {
   const ProvinceDemand({required this.province, required this.levelByKomoditas});
 }
 
-// 6-month revenue comparison (perantara vs TaniDirect)
+// 6-month revenue comparison (perantara vs SatuTani)
 final List<RevenueMonth> mockRevenue = [
   const RevenueMonth(month: 'Okt', withMiddleman: 2100000, direct: 3800000),
   const RevenueMonth(month: 'Nov', withMiddleman: 1950000, direct: 3500000),

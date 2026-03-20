@@ -40,7 +40,7 @@ final List<TraceabilityRecord> mockTraceability = [
       TraceabilityStep(icon: '🌾', title: 'Dipanen', date: '5 Mar 2026', description: 'Panen raya — hasil 8 ton', isCompleted: true),
       TraceabilityStep(icon: '📦', title: 'Dikemas', date: '6 Mar 2026 08:00', description: 'Dikemas 25 kg/karung, label organik', isCompleted: true),
       TraceabilityStep(icon: '🌡️', title: 'Cold Storage', date: '6 Mar 2026 10:00', description: 'Suhu 18°C, kelembaban 65%', isCompleted: true),
-      TraceabilityStep(icon: '🚛', title: 'Diambil Kurir', date: '7 Mar 2026 09:00', description: 'Kurir TaniDirect Express', isCompleted: true),
+      TraceabilityStep(icon: '🚛', title: 'Diambil Kurir', date: '7 Mar 2026 09:00', description: 'Kurir SatuTani Express', isCompleted: true),
       TraceabilityStep(icon: '🏠', title: 'Diterima', date: '8 Mar 2026 14:30', description: 'Diterima konsumen di Jakarta', isCompleted: true),
     ],
     coldChain: [
@@ -64,7 +64,7 @@ final List<TraceabilityRecord> mockTraceability = [
       TraceabilityStep(icon: '🦐', title: 'Dipanen', date: '1 Mar 2026', description: 'Panen udang segar — 500 kg', isCompleted: true),
       TraceabilityStep(icon: '📦', title: 'Dikemas', date: '1 Mar 2026 06:00', description: 'Dikemas 1 kg/pack vakum, coolbox', isCompleted: true),
       TraceabilityStep(icon: '🌡️', title: 'Cold Chain', date: '1 Mar 2026 07:00', description: 'Suhu 4°C sepanjang perjalanan', isCompleted: true),
-      TraceabilityStep(icon: '🚛', title: 'Diambil Kurir', date: '2 Mar 2026 08:00', description: 'Armada pendingin TaniDirect', isCompleted: true),
+      TraceabilityStep(icon: '🚛', title: 'Diambil Kurir', date: '2 Mar 2026 08:00', description: 'Armada pendingin SatuTani', isCompleted: true),
       TraceabilityStep(icon: '🏠', title: 'Diterima', date: '3 Mar 2026 13:00', description: 'Diterima konsumen — kondisi segar', isCompleted: true),
     ],
     coldChain: [

@@ -1,6 +1,6 @@
 class AppStrings {
   // App
-  static const appName    = 'TaniDirect';
+  static const appName    = 'SatuTani';
   static const appTagline = 'Dari Kebun Langsung ke Mejamu';
 
   // Onboarding
@@ -22,7 +22,7 @@ class AppStrings {
   static const roleConsSub   = 'Beli produk segar dari petani';
 
   // Auth
-  static const loginTitle     = 'Masuk ke TaniDirect';
+  static const loginTitle     = 'Masuk ke SatuTani';
   static const registerTitle  = 'Buat Akun Baru';
   static const email          = 'Email';
   static const password       = 'Kata Sandi';

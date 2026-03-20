@@ -26,13 +26,13 @@ void main() {
   runApp(
     DevicePreview(
       enabled: true, // Always show the preview frame for testing
-      builder: (context) => const TaniDirectApp(),
+      builder: (context) => const SatuTaniApp(),
     ),
   );
 }
 
-class TaniDirectApp extends StatelessWidget {
-  const TaniDirectApp({super.key});
+class SatuTaniApp extends StatelessWidget {
+  const SatuTaniApp({super.key});
 
   @override
   Widget build(BuildContext context) {
@@ -40,7 +40,7 @@ class TaniDirectApp extends StatelessWidget {
       useInheritedMediaQuery: true,
       locale: DevicePreview.locale(context),
       builder: DevicePreview.appBuilder,
-      title: 'TaniDirect',
+      title: 'SatuTani',
       debugShowCheckedModeBanner: false,
       theme: AppTheme.lightTheme,
       initialRoute: '/splash',
